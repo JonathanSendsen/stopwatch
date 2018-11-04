@@ -2,7 +2,7 @@
   html {
     background: #000000;
     color: #bbb;
-    font-family: 'Segoe UI', 'Roboto', 'Open Sans', 'sans-serif';
+    font-family: 'Roboto', 'Open Sans', 'sans-serif';
   }
   
   .controls {
@@ -15,7 +15,7 @@
   .button {
     color: #bbb;
     font-size: 4rem;
-    margin: 0 0.5em;
+    margin: 0 2rem;
     text-decoration: underline;
   }
   
